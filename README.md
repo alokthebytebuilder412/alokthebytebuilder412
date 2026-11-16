@@ -19,8 +19,8 @@ Currently, I'm working as a **Software Engineering Trainee**, gaining hands-on e
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://www.instagram.com/alok_upadhyay412/?hl=en)] 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/alokupadhyay942/)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alok_upadhyay412/?hl=en) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokupadhyay942/)
 
 
 ---
