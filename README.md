@@ -85,5 +85,3 @@ Currently, I'm working as a **Software Engineering Trainee**, gaining hands-on e
 I believe in continuous learning, writing clean code, and understanding the fundamentals behind technology rather than just using tools.
 
 **"Building, breaking, learning, and building better."**
-
-![Profile Views](https://visitcount.itsvg.in/api?id=alokthebytebuilder412&icon=0&color=0)
