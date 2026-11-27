@@ -74,7 +74,7 @@ Currently, I'm working as a **Software Engineering Trainee**, gaining hands-on e
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokthebytebuilder412&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokthebytebuilder412&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alokthebytebuilder412&theme=dark&hide_border=false&v=2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokthebytebuilder412&theme=dark&hide_border=false&layout=compact)
 
