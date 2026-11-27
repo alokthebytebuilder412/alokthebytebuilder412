@@ -72,14 +72,12 @@ Currently, I'm working as a **Software Engineering Trainee**, gaining hands-on e
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=alokthebytebuilder412&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://vercel.app)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alokthebytebuilder412&theme=dark&hide_border=false)
+![GitHub Streak](https://vercel.app)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alokthebytebuilder412&theme=dark&hide_border=false&layout=compact)
-
----
-
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=alokthebytebuilder412&theme=dark&hide_border=false&layout=compact)
+-----------
 ## 💡 A Little More About Me
 
 I believe in continuous learning, writing clean code, and understanding the fundamentals behind technology rather than just using tools.
